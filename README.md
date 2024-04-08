@@ -1,1 +1,1 @@
-# 2024_MatSE410_lectures_computational_tools
+# 2024_MatSE410_lectures_Computational_tools
